@@ -6,8 +6,9 @@
     <color name="orange">#FF7427</color>
     <color name="yellow">#FFC107</color>
     <color name="dark_blue">#252836</color>
-
-
-
-
+    <color name="colorPrimary">#151C25</color>
+    <color name="colorPrimaryDark">#151C25</color>
+    <color name="colorAccent">#FF9800</color>
+    <color name="text_bg_blue">#1A242F</color>
+    <color name="text_light_blue">#566f9a</color>
 </resources>
